@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm  Diego Villhalva from Curitiba,Brazil<br><br>- 🔭 I’m working as a WebDeveloper<br>- 📚 I'm currently learning React and Typescript</p>
+<p align="left">I'm  Diego Villhalva from Curitiba,Brazil<br><br>- 🔭 I’m working as a Web Developer<br>- 📚 I'm currently learning React and Typescript</p>
 
 ###
 
@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -80,3 +80,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegovilhalva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###

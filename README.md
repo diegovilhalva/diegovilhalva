@@ -82,7 +82,7 @@
 <div align="center">
   
   <img src="https://github-stats-extended.vercel.app/api?username=diegovilhalva&show_icons=true&include_all_commits=true&theme=vue-dark" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=diegovilhalva&langs_count=6&theme=vue-dark" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=diegovilhalva&langs_count=4&theme=vue-dark" height="150" alt="languages graph"  />
   
 </div>
 

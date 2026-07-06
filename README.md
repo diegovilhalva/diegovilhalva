@@ -80,8 +80,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegovilhalva&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovilhalva&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  
+  <img src="https://github-stats-extended.vercel.app/api?username=diegovilhalva&show_icons=true&include_all_commits=true&theme=vue" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=diegovilhalva&langs_count=6&theme=vue" height="150" alt="languages graph"  />
   
 </div>
 

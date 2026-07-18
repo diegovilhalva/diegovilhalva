@@ -23,7 +23,12 @@
 
 ###
 
-<p align="left">I'm  Diego Villhalva from Curitiba,Brazil<br><br>- 🔭 I’m working as a Web Developer<br>- 📚 I'm currently learning React and Typescript</p>
+
+I'm Diego, a full-stack developer from Curitiba, Brazil.
+
+- 🧠 I'm **autistic (level 1)** with **high abilities** — my hyperfocus and pattern recognition are my superpowers.
+- 🌱 Currently sharpening React, TypeScript, and Next.js.
+- 🎯 Looking for **inclusive tech teams** that value structured thinking and real-world problem-solving.
 
 ###
 
